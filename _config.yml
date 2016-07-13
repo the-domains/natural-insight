@@ -1,4 +1,3 @@
-layout_spectrum: 0.12618018803186715
 typography_spectrum: 0.35634483746252954
 color:
   brandStrength: 0.20476068486459553
@@ -11,7 +10,10 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: natural insight
+layout_spectrum: 0.12618018803186715
+analytics:
+  twitter: '@rrayshouny'
 author:
   name: Raja Rayshouny
   email: rrayshouny@gmail.com
+name: natural insight
