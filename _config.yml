@@ -1,0 +1,14 @@
+layout_spectrum: 0.39241918711923063
+typography_spectrum: 0.35634483746252954
+color:
+  brandStrength: 0.8911341854836792
+  lightness: 0.14559966488741338
+  saturation: 0.40172131662257016
+  rhythmicContrast: 0.018115008948370814
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: natural insight
